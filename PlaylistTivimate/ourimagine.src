@@ -10,7 +10,9 @@
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7SLMT7/cnbcindologo.png" group-title="LOKAL FTA", CNBC INDONESIA https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" 
 
-#EXTINF:0 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7.png" group-title="LOKAL FTA",Trans 7 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 #EXTINF: -1 tvg-id="SPOTV" group-title="Sports" ch-number="307" tvg-logo="https://aqfad.netlify.app/logos/SPOTV.png",SPOTV #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" 
+#EXTINF:0 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7.png" group-title="LOKAL FTA",Trans 7 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
+
+#EXTINF: -1 tvg-id="SPOTV" group-title="Sports" ch-number="307" tvg-logo="https://aqfad.netlify.app/logos/SPOTV.png",SPOTV #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd 
 
